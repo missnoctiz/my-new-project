@@ -9,7 +9,7 @@ Slutprojekt för AI kursen.
 ## Summary
 
 Detta projekt är inget avancerat då jag behöver förbättra mina kunskaper i programmeringen innan jag går mer djupgående in på att bygga AI. Utan projekten kommer bara ge mig en förståelse i hur man kan börja tänka kring byggandet av AI. 
-Eller nånting sånt :)
+Eller nånting sånt :) Men det har varit en intressant kurs, men kanske inget jag kommer vilja jobba med tyvärr. Men alltid bra att lära sig mera.
 
 
 ## Bakgrund
