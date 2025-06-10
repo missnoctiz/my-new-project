@@ -6,7 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Slutprojekt för AI kursen.
 
-## Sammanfattning
+## Summary
 
 Detta projekt är inget avancerat då jag behöver förbättra mina kunskaper i programmeringen innan jag går mer djupgående in på att bygga AI. Utan projekten kommer bara ge mig en förståelse i hur man kan börja tänka kring byggandet av AI. 
 Eller nånting sånt :)
